@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KudumVarshitha
+- 👋 Hi, I’m @DamarlaPavan
 - 🤖 I’m interested in Machine Learning
 - 🐍 I’m currently learning Python and 📊 Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on Machine Learning Projects
